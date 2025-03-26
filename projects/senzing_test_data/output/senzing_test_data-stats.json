@@ -1,0 +1,206 @@
+{
+    "SENZING_TEST_COMPANY": {
+        "ADDR_CITY": {
+            "count": 24483,
+            "examples": [
+                "Riyadh",
+                "Doha",
+                "Essen",
+                "Frankfurt am Main",
+                "M\u00fcnchen"
+            ]
+        },
+        "ADDR_COUNTRY": {
+            "count": 24978,
+            "examples": [
+                "Saudi Arabia",
+                "Qatar",
+                "GERMANY",
+                "Portugal",
+                "ENGLAND"
+            ]
+        },
+        "ADDR_LINE1": {
+            "count": 24551,
+            "examples": [
+                "Sweilem Street Justic Area",
+                "Salwa Industrial Area",
+                "Potsdamer Platz 2",
+                "Dachauer Str. 641",
+                "ThyssenKrupp Allee 1"
+            ]
+        },
+        "ADDR_LINE2": {
+            "count": 7320,
+            "examples": [
+                "Street No 2",
+                "Shuweikh Industrial Area",
+                "Canh Vinh Ward",
+                "Pavmto14",
+                "79 Commonwealth Street"
+            ]
+        },
+        "ADDR_LINE3": {
+            "count": 757,
+            "examples": [
+                ",Dubai",
+                ",Kelowna",
+                "Surry Hills ,Sydney",
+                "3rd Floor",
+                "Sharq, A18 Office, 18th Floor"
+            ]
+        },
+        "ADDR_POSTAL_CODE": {
+            "count": 20736,
+            "examples": [
+                "11411",
+                "13010",
+                "45143",
+                "45128",
+                "70469"
+            ]
+        },
+        "ADDR_STATE": {
+            "count": 22043,
+            "examples": [
+                "Riyadh",
+                "Abu Dhabi",
+                "Berlin",
+                "Nordrhein-Westfalen",
+                "Hessen"
+            ]
+        },
+        "ADDR_TYPE": {
+            "count": 24985,
+            "examples": [
+                "BUSINESS"
+            ]
+        },
+        "DATA_SOURCE": {
+            "count": 24985,
+            "examples": [
+                "SENZING_TEST_COMPANY"
+            ]
+        },
+        "DUNS_NUMBER": {
+            "count": 24984,
+            "examples": [
+                "643409170",
+                "534792325",
+                "316015049",
+                "341366717",
+                "313777716"
+            ]
+        },
+        "NAME_ORG": {
+            "count": 24985,
+            "examples": [
+                "Abdulaziz And Abdullah Al Ajlan Company",
+                "Al Ansari & Al Aujan Company L L C",
+                "thyssenkrupp Materials Services GmbH",
+                "DB Mobility Logistics AG",
+                "MAN SE"
+            ]
+        },
+        "PHONE_NUMBER": {
+            "count": 18329,
+            "examples": [
+                "966 114112976",
+                "974 44601092",
+                "89 459001",
+                "30 29762024",
+                "201 8440"
+            ]
+        },
+        "PHONE_TYPE": {
+            "count": 5918,
+            "examples": [
+                "974 44602026",
+                "965 4714505",
+                "201 84453500",
+                "30 29754029",
+                "231 4383080"
+            ]
+        },
+        "RECORD_ID": {
+            "count": 24985,
+            "examples": [
+                "SENDJ-2_0000001",
+                "SENDJ-2_0000002",
+                "SENDJ-2_0024980",
+                "SENDJ-2_0024983",
+                "SENDJ-2_0024985"
+            ]
+        },
+        "RECORD_TYPE": {
+            "count": 24985,
+            "examples": [
+                "ORGANIZATION"
+            ]
+        },
+        "WEBSITE_ADDRESS": {
+            "count": 14123,
+            "examples": [
+                "http://www.aujan.com",
+                "http://www.anderson-anderson-int.com",
+                "http://www.thyssenkrupp-materials-services.com",
+                "http://www.vkb.de",
+                "http://www.corporate.man.eu"
+            ]
+        }
+    },
+    "SENZING_TEST_CONTACT": {
+        "DATA_SOURCE": {
+            "count": 24985,
+            "examples": [
+                "SENZING_TEST_CONTACT"
+            ]
+        },
+        "EMAIL_ADDRESS": {
+            "count": 1609,
+            "examples": [
+                "jconnor@bloodsystems.org",
+                "ir@crh.com",
+                "carole@paradoxdds.com",
+                "mark.lebo@dallasnews.com",
+                "e.joseph@espositojewelry.com"
+            ]
+        },
+        "NAME_FULL": {
+            "count": 23883,
+            "examples": [
+                "Abdulaziz Al Ajlan",
+                "Mohammed Kabeer",
+                "Guido Kerkhoff",
+                "Matthias Gr\u00fcndler",
+                "Steven Armstrong"
+            ]
+        },
+        "PHONE_NUMBER": {
+            "count": 737,
+            "examples": [
+                "420 284 022076",
+                "971 4 3331362",
+                "61 2 8319 4801",
+                "49 3086966389",
+                "49 2234 18210"
+            ]
+        },
+        "RECORD_ID": {
+            "count": 24985,
+            "examples": [
+                "SENDJ-2_0000001",
+                "SENDJ-2_0000002",
+                "SENDJ-2_0024984",
+                "SENDJ-2_0024985",
+                "SENDJ-2_0024983"
+            ]
+        },
+        "RECORD_TYPE": {
+            "count": 24985,
+            "examples": [
+                "PERSON"
+            ]
+        }
+    }
+}
